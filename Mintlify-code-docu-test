@@ -1,3 +1,4 @@
+This code defines a function `evaluate_ai_docstring` that evaluates the quality of an AI-generated docstring for a given function. Here's a breakdown of what the code does:
 import inspect
 
 def evaluate_ai_docstring(func, ai_docstring):
