@@ -1,3 +1,4 @@
+This Python script defines a simple To-Do List application. Here's a breakdown of what the code does:
 import json
 import os
 from datetime import datetime
